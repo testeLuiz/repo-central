@@ -2,7 +2,9 @@ package biblioteca;
 
 public class Livro {
 	
-	public String titulo;
+	private String titulo;
+	private String numeroPaginas;
+	private String autor;
 	
 	private void emprestar() {
 		
