@@ -6,7 +6,7 @@ public class Livro {
 	private String numeroPaginas;
 	private String autor;
 	
-	private void emprestar() {
+	private void emprestarLivro() {
 		
 	}
 	
