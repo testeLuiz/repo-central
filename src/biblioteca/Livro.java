@@ -7,9 +7,6 @@ public class Livro {
 	private String autor;
 	
 	private void emprestarLivro() {
-		System.out.println("Oi");
-		System.out.println("Teste");
-		
 	}
 	
 	public void devolverLivro() {
