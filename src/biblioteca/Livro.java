@@ -8,6 +8,7 @@ public class Livro {
 	
 	private void emprestarLivro() {
 		System.out.println("Oi");
+		System.out.println("Teste");
 		
 	}
 	
