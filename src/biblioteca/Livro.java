@@ -10,7 +10,7 @@ public class Livro {
 		
 	}
 	
-	public void devolver() {
+	public void devolverLivro() {
 		
 	}
 }
