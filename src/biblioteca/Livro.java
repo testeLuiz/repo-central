@@ -13,5 +13,4 @@ public class Livro {
 		
 	}
 	
-	public void cobrarLivro() {}
 }
