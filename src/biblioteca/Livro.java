@@ -13,4 +13,6 @@ public class Livro {
 		
 	}
 	
+	public void contarLivro() {}
+	
 }
