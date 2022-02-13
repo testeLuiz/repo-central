@@ -12,4 +12,6 @@ public class Livro {
 	public void devolverLivro() {
 		
 	}
+	
+	public void cobrarLivro() {}
 }
